@@ -1,0 +1,5 @@
+$name
+  age $age
+  class $class
+  rollno $rollno
+  interested in $hobbies
